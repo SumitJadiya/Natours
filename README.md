@@ -11,3 +11,8 @@ Website uses Advanced CSS concepts
 - 7 in 1 CSS Architecture with SASS
 - CSS Grid
 - Grid system - Design system which allow was to build consistent Interface.
+- Outline and Outline Offset
+- background-clip
+- Utility Class
+- Use of direct child
+- Skew Section
