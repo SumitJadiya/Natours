@@ -8,3 +8,4 @@ Website uses Advanced CSS concepts
 - @keyframes
 - clip-path
 - animation
+- 7 in 1 CSS Architecture with SASS
