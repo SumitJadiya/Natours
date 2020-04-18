@@ -16,3 +16,8 @@ Website uses Advanced CSS concepts
 - Utility Class
 - Use of direct child
 - Skew Section
+- Rotating Card
+- Perspective in CSS
+- Backface-visibility
+- background blend mode
+- box-decoration-break
