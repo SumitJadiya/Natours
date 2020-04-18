@@ -21,3 +21,8 @@ Website uses Advanced CSS concepts
 - Backface-visibility
 - background blend mode
 - box-decoration-break
+- Shape-outside
+- Image Filter
+- background video
+- <video> HTML tag
+- Object-fit property
