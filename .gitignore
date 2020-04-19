@@ -27,7 +27,6 @@ Icon
 *.css.map
 dist/
 .tmp/
-style.css
 
 ### Code ###
 .settings/
