@@ -50,3 +50,11 @@ Website uses Advanced CSS concepts
 - Custom Animation timing function using cubic bezier curves
 - Animate solid color gradient
 - transform-origin
+
+## PopUp
+
+- Popup using core CSS
+- :target pseudo-class
+- display:table-cell
+- CSS text column
+- hyphinate words using hyphens property

@@ -59,7 +59,9 @@
             is where life happens
           </span>
         </h1>
-        <a href="#" class="btn btn--white btn--animated">Discover our tours</a>
+        <a href="#section-tours" class="btn btn--white btn--animated">
+          Discover our tours
+        </a>
       </div>
     </header>
     <main>
@@ -168,7 +170,7 @@
         </div>
       </section>
 
-      <section class="section-tours">
+      <section class="section-tours" id="section-tours">
         <div class="u-center-text u-margin-bottom-big">
           <h2 class="heading-secondary">
             Most Popular Tours
@@ -202,7 +204,7 @@
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$297</p>
                   </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  <a href="#popup" class="btn btn--white">Book Now</a>
                 </div>
               </div>
             </div>
@@ -234,7 +236,7 @@
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$497</p>
                   </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  <a href="#popup" class="btn btn--white">Book Now</a>
                 </div>
               </div>
             </div>
@@ -266,7 +268,7 @@
                     <p class="card__price-only">Only</p>
                     <p class="card__price-value">$897</p>
                   </div>
-                  <a href="" class="btn btn--white">Book Now</a>
+                  <a href="#popup" class="btn btn--white">Book Now</a>
                 </div>
               </div>
             </div>
@@ -291,7 +293,7 @@
                 alt="Person on a tour"
                 class="story__img"
               />
-              <figcaption class="story__caption">Rupa Kumari</figcaption>
+              <figcaption class="story__caption">Mary Smith</figcaption>
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
@@ -314,7 +316,7 @@
                 alt="Person on a tour"
                 class="story__img"
               />
-              <figcaption class="story__caption">Sumit Jadiya</figcaption>
+              <figcaption class="story__caption">Jack Wilson</figcaption>
             </figure>
             <div class="story__text">
               <h3 class="heading-tertiary u-margin-bottom-small">
@@ -435,9 +437,44 @@
           </div>
         </div>
         <div class="col-1-of-2">
-          <p class="footer__copyright">Developed by Sumit Jadiya</p>
+          <p class="footer__copyright">
+            Developed by Sumit Jadiya. All Rights Reserved.
+          </p>
         </div>
       </div>
     </footer>
+
+    <div class="popup" id="popup">
+      <div class="popup__content">
+        <div class="popup__left">
+          <img src="img/nat-8.jpg" alt="Tour" class="popup__img" />
+          <img src="img/nat-9.jpg" alt="Tour" class="popup__img" />
+        </div>
+        <div class="popup__right">
+          <a href="#section-tours" class="popup__close">&times;</a>
+          <h2 class="heading-secondary u-margin-bottom-small">
+            Start Booking Now
+          </h2>
+          <h3 class="heading-tertiary u-margin-bottom-small">
+            IMPORTANT &dash; PLEASE READ THESE TERMS BEFORE BOOKING
+          </h3>
+          <p class="popup__text">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
+            voluptates ipsa dolores quisquam praesentium aliquam omnis eveniet a
+            doloremque numquam! Accusamus deleniti debitis harum magni eum,
+            ipsam ratione tempore voluptas. Lorem ipsum dolor sit amet
+            consectetur adipisicing elit. Illo voluptates ipsa dolores quisquam
+            praesentium aliquam omnis eveniet a doloremque numquam! Accusamus
+            deleniti debitis harum magni eum, ipsam ratione tempore voluptas.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo
+            voluptates ipsa dolores quisquam praesentium aliquam omnis eveniet a
+            doloremque numquam! Accusamus deleniti debitis harum magni eum,
+            ipsam ratione tempore voluptas. Lorem ipsum dolor sit amet
+            consectetur adipisicing elit.
+          </p>
+          <a href="#" class="btn btn--green">Book Now</a>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
