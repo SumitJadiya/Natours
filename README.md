@@ -1,4 +1,4 @@
-### Natours
+# Natours
 
 Website uses Advanced CSS concepts
 
@@ -12,7 +12,7 @@ Website uses Advanced CSS concepts
 - CSS Grid
 - Grid system - Design system which allow was to build consistent Interface.
 
-# Features
+## Features
 
 - Outline and Outline Offset
 - background-clip
@@ -20,7 +20,7 @@ Website uses Advanced CSS concepts
 - Use of direct child
 - Skew Section
 
-# Popular
+## Popular
 
 - Rotating Card
 - Perspective in CSS
@@ -28,7 +28,7 @@ Website uses Advanced CSS concepts
 - background blend mode
 - box-decoration-break
 
-# Testimonials
+## Testimonials
 
 - Shape-outside
 - Image Filter
@@ -36,10 +36,17 @@ Website uses Advanced CSS concepts
 - <video> HTML tag
 - Object-fit property
 
-# Booking
+## Booking
 
 - Implement Solid Color Gradient
 - Using general and adjacent sibling selectors
 - ::input-placeholder pseudo element
 - placeholder-shown
 - Custom Radio button
+
+## Navigation
+
+- Checkbox Hack
+- Custom Animation timing function using cubic bezier curves
+- Animate solid color gradient
+- transform-origin
